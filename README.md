@@ -42,5 +42,7 @@ Open the project in Xilinx Vivado, synthesize, implement, and generate the bitst
 ![Lost](https://github.com/user-attachments/assets/7c9c143e-98cd-4b7f-95be-39669ff4c43b)
 
 
+This code is currently owned by me and is open to be used by anyone
+
 
 
