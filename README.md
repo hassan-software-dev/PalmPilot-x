@@ -27,7 +27,7 @@ The project includes:
 
 - Basys3 FPGA board
 - Buttons and IR sensors (basically any input that have two discrete states or can be mapped to)
-- Clock source (typically 100MHz)
+- 13 LDRs with 13 lasers pointing at ldrs, they act as obstacle detection.
 
 ## Build Instructions
 
