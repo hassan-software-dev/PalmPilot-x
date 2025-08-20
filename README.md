@@ -2,6 +2,11 @@
 
 This is a Verilog-based FPGA project for a game with VGA display capabilities.
 
+
+https://github.com/user-attachments/assets/8acf2b8e-f709-4efb-b7b8-25ad952e4589
+
+
+
 ## Project Structure
 
 The project includes:
